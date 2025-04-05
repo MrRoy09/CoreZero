@@ -8,3 +8,28 @@ z2
 !i10f 100
 cModel Technology
 dC:/workspace/CodingAdventures/FPGA
+vALU
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1743843776
+!i10b 1
+!s100 2RQ<T39IE13C8@ZJ:V=DK0
+Ia@;7S@jO`3PfdM_:9`[gK2
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+dC:/workspace/CodingAdventures/projects/CoreZero
+w1743843774
+8C:/workspace/CodingAdventures/projects/CoreZero/ALU.sv
+FC:/workspace/CodingAdventures/projects/CoreZero/ALU.sv
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1743843776.000000
+!s107 C:/workspace/CodingAdventures/projects/CoreZero/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/workspace/CodingAdventures/projects/CoreZero/ALU.sv|
+!i113 1
+o-work work -sv
+tCvgOpt 0
+n@a@l@u
